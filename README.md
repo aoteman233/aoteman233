@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 there is xiaofei Zhang and I am focusing on Intelligent Vehicle and Autonomous Driving, and insterested in Computer Vision and Deep Learning
+### 🌱 I’m currently learning Action Recognition, Intent Estimation
 
 <!--
 **aoteman233/aoteman233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
